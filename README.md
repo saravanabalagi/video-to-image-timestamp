@@ -21,7 +21,10 @@ Place your video file in the same place as [video_processor](video_processor.sh)
 sh video_processor.sh your_video_file
 ```
 
-Options:
+## Options:
+
+These options can be configured interactively once the script is executing:
+
 1. Output folder name
 2. Resize
 3. Rotate
